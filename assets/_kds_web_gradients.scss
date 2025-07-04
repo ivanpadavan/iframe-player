@@ -1,0 +1,59 @@
+// Important: Import only in style.scss
+:root {
+  --kds-gradient-grozny: linear-gradient(135deg, #667e9980 0%, #667e9900 50.5%, #667e9980 100%);
+  --kds-gradient-murom: linear-gradient(90deg, #3b69b2 0%, #3a2782 35.94%, #8e1979 70.31%, #be1174 100%);
+  --kds-gradient-derbent: linear-gradient(180deg, #8e4383 0%, #95407a 45.3%, #922d60 45.31%, #b92e2d 100%), linear-gradient(270deg, #b42e2d9e 10.94%, #ac3b5900 100%);
+  --kds-gradient-surgut: linear-gradient(180deg, #3c73b9 0%, #384f9e 100%);
+  --kds-gradient-vologda: linear-gradient(180deg, #011426b3 0%, #0e1239b3 100%);
+  --kds-gradient-soligorsk: linear-gradient(90deg, #3e00a3 0%, #ff002e 100%);
+  --kds-gradient-alushta: linear-gradient(270deg, #cb69699e 10.94%, #e19db054 100%), linear-gradient(180deg, #8e4383 0%, #95407a 45.3%, #922d60 45.31%, #b92e2d 100%);
+  --kds-gradient-nikolsk: linear-gradient(270deg, #5a1c37e6 10.94%, #661c2580 100%), linear-gradient(180deg, #8e4383 0%, #95407a 45.3%, #922d60 45.31%, #b92e2d 100%);
+  --kds-gradient-eniseisk: linear-gradient(180deg, #5988c4 0%, #576aad 100%);
+  --kds-gradient-blagodarny: linear-gradient(180deg, #25456f 0%, #22305f 100%);
+  --kds-gradient-orel: linear-gradient(156.79deg, #c30f73 -13.46%, #8c1978 63.67%);
+  --kds-gradient-kurgan: linear-gradient(134.76deg, #002094 0%, #1736a5 65.7%, #3952ac 100%);
+  --kds-gradient-stavropol: linear-gradient(180deg, #8c1978 83.85%, #c30f73 100%);
+  --kds-gradient-sochi: linear-gradient(180deg, #ffffff1a 0%, #ffffff0f 9.57%);
+  --kds-gradient-sevastopol: linear-gradient(98deg, #6b3060 0.15%, #af1c36 98.9%);
+  --kds-gradient-nalchik: linear-gradient(90deg, #fff 0%, #ffffff26 100%);
+  --kds-gradient-serov: linear-gradient(
+    180deg,
+    #00000000 0%,
+    #00000002 6.67%,
+    #00000007 13.33%,
+    #00000011 20%,
+    #0000001e 26.67%,
+    #0000002f 33.33%,
+    #00000044 40%,
+    #0000005a 46.67%,
+    #00000072 53.33%,
+    #00000088 60%,
+    #0000009d 66.67%,
+    #000000ae 73.33%,
+    #000000bb 80%,
+    #000000c5 86.67%,
+    #000000ca 93.33%,
+    #000000cc 100%
+  );
+  --kds-gradient-topki: linear-gradient(
+    180deg,
+    #04051800 0%,
+    #04051802 6.67%,
+    #04051809 13.33%,
+    #04051815 20%,
+    #04051825 26.67%,
+    #0405183b 33.33%,
+    #04051855 40%,
+    #04051871 46.67%,
+    #0405188e 53.33%,
+    #040518aa 60%,
+    #040518c4 66.67%,
+    #040518da 73.33%,
+    #040518ea 80%,
+    #040518f6 86.67%,
+    #040518fd 93.33%,
+    #040518 100%
+  );
+  --kds-gradient-dno: linear-gradient(90deg, #04051800 0%, #040518 50%);
+  --kds-gradient-dudinka: linear-gradient(90deg, #040518 0%, #040518 50%, #04051800 100%);
+}
